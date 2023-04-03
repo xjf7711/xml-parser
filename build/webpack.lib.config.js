@@ -8,14 +8,14 @@ console.log('run lib');
 
 module.exports = {
   entry: {
-    'tsLib': resolve('src/main.ts')
+    'tsLib': resolve('src/xml-parser/simple-xml-parser.ts')
   },
   output: {
     filename: `[name].js`,
     path: resolve('lib'),
     clean: true,
     library: {
-      name: 'TsLib',
+      name: 'XmlParser',
       type: 'umd',
       export: 'default',
     },

@@ -38,7 +38,7 @@ module.exports = {
     // chunkFilename: 'js/[name]_chunk.js', // 自定义非入口chunk的名称
     // library 一般是结合dll使用
     library: {
-      name: 'TsLib', // 整个库向外暴露的变量名
+      name: 'XmlParser', // 整个库向外暴露的变量名
       type: 'umd',
       export: 'TsLib' // default umd
     },
