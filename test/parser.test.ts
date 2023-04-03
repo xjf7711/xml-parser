@@ -1,5 +1,6 @@
 /*
  * @功能描述:
+ * xml解析的测试
  */
 const XmlParser = require('../src/xml-parser/simple-xml-parser');
 
