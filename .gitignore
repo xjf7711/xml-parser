@@ -4,7 +4,6 @@ package-lock.json
 yarn.lock
 dist
 js
-.DS_Store
 .type-coverage
 coverage-ts
 
@@ -26,3 +25,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+####################################
+######## OS generated files ########
+####################################
+*.DS_Store
