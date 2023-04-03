@@ -1,14 +1,4 @@
 
-> 1、全局和本地安装TypeScript
+> 1、基于PDF.js中的xml-parser.js，使用typescript重写的一个xml字符串的库。
 
-> 2、初始化、安装webpack、webpack-cli、webpack-dev-server、webpack-merge
-
-> 3、两个webpack插件clean-webpack-plugin和html-webpack-plugin
-
-> 4、创建配置文件tsconfig.json, tsc --init
-
-> 5、安装loader， ts-loader css-loader url-loader file-loader less-loader
-
-> 6、单元测试npx ts-jest config:init
-
->
+> 2、网上的xml解析库一般依赖DOM转换，会有一些问题，不够完善。
