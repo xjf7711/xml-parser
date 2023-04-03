@@ -1,7 +1,7 @@
 {
-  "name": "typescript-start",
+  "name": "xml-parser",
   "version": "1.0.0",
-  "description": "typescript start . ",
+  "description": "A xml-parser lib wrote by typescript based on Pdf.js xml-parser.js . ",
   "main": "src/main.ts",
   "scripts": {
     "serve": "webpack-dev-server --mode=development --config ./build/webpack.config.js",
